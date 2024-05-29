@@ -1,0 +1,20 @@
+{
+  "name": "playtube-backend",
+  "version": "1.0.0",
+  "description": "THis is The Backend of PlayTube Which is almost similar to YouTube",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "React",
+    "JavaScript",
+    "Code"
+  ],
+  "author": "Prashant Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
